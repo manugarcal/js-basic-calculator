@@ -35,6 +35,9 @@ let dividir = {
 
 
 //Tu funcion de  multiplicar aqui abajo
+function multiplicacion(a,b){
+    return a * b;
+}
 
 
 //Tu funcion de dividir aqui abajo
@@ -49,4 +52,6 @@ window.onload = function(){
 
 function calculate(func, obj){
     //Tu logica va aqui 
+    
+
 }
