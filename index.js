@@ -33,7 +33,9 @@ let dividir = {
 
 //Tu funcion de resta aqui abajo
 
-
+function resta(a,b){
+    return a-b;
+}
 //Tu funcion de  multiplicar aqui abajo
 
 
