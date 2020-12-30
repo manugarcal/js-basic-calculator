@@ -29,7 +29,9 @@ let dividir = {
 }
 
 //Tu funcion de suma aqui abajo
-
+function sum(a, b) {
+    return a + b;
+}
 
 //Tu funcion de resta aqui abajo
 
@@ -41,7 +43,9 @@ function multiplicacion(a,b){
 
 
 //Tu funcion de dividir aqui abajo
-
+function div(a, b) {
+    return a / b;
+}
 
 
 //Funcion calculate
@@ -51,6 +55,8 @@ window.onload = function(){
 }
 
 function calculate(func, obj){
+    
+
     //Tu logica va aqui 
     
 
