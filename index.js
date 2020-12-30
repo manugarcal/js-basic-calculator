@@ -35,7 +35,9 @@ function sum(a, b) {
 
 //Tu funcion de resta aqui abajo
 
-
+function resta(a,b){
+    return a-b;
+}
 //Tu funcion de  multiplicar aqui abajo
 function multiplicacion(a,b){
     return a * b;
